@@ -1,0 +1,11 @@
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\bin\Debug\GitHub_SalesCommission.exe.config
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\bin\Debug\GitHub_SalesCommission.exe
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\bin\Debug\GitHub_SalesCommission.pdb
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\bin\Debug\GitHub_SalesCommission.xml
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.vbprojAssemblyReference.cache
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.Resources.resources
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.vbproj.GenerateResource.cache
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.vbproj.CoreCompileInputs.cache
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.exe
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.xml
+O:\GitHub Projects\GitHub_SalesCommission\GitHub_SalesCommission\obj\Debug\GitHub_SalesCommission.pdb
